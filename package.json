@@ -1,5 +1,5 @@
 {
-  "name": "messenger-bot",
+  "name": "orion-bot",
   "version": "2.5.0",
   "description": "FB Messenger Platform client",
   "main": "index.js",
